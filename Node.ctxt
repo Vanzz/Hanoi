@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=_placeHolder\ _size
+comment1.target=Node(PlaceHolder,\ byte)
+comment1.text=\n\ Recebe\ um\ disco\ PlaceHolder\ e\ o\ tamanho\ pro\ disco.\n\ \n\ @param\ _placeHolder\:\ Classe\ PlaceHolder,\ que\ armazena\ a\ imagem\n\ e\ representa\ a\ node\ como\ ator\ dentro\ do\ game\n\ \n\ @param\ _size\:\ Tamanho\ do\ disco,\ variando\ de\ 1\ a\ 8\n
+comment2.params=_placeHolder\ _size\ _stack
+comment2.target=Node(PlaceHolder,\ byte,\ Stack)
+comment3.params=
+comment3.target=Node()
+comment4.params=
+comment4.target=Node\ getNext()
+comment5.params=_carta
+comment5.target=void\ setNext(Node)
+comment6.params=
+comment6.target=PlaceHolder\ getPlaceHolder()
+comment7.params=
+comment7.target=Stack\ getStack()
+comment8.params=
+comment8.target=int\ getSize()
+comment9.params=_placeHolder
+comment9.target=void\ setPlaceHolder(PlaceHolder)
+numComments=10

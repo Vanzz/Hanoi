@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlaceHolder
+comment1.params=
+comment1.target=PlaceHolder()
+comment2.params=imgname
+comment2.target=PlaceHolder(java.lang.String)
+comment3.params=imgname\ n
+comment3.target=PlaceHolder(java.lang.String,\ Node)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=Node\ getNode()
+numComments=6
